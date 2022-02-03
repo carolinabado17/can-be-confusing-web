@@ -3,6 +3,11 @@ body {
     padding: 30px;
     font-style: roboto;
 }
+head {
+    font-size: large;
+    font-style: Roboto;
+    font-stretch: expanded;
+}
 
 /* cyrillic */
 @font-face {
