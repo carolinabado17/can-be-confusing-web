@@ -3,6 +3,7 @@
 For my website *CanBeConfusing* I was inspired by my own struggles and experiences. 
 Feeling like someone out there relates and can benefit from my experiences and 
 tips I’ve gathered from others. 
+https://carolinabado17.github.io/can-be-confusing-web/index.html
 
 ## Description
 
